@@ -2,4 +2,4 @@
 
 ## Web Applications
 
-[Vernnobile Webfont Testing (drag+drop)](http://vernnobile.github.io/webfont-testing/)
+- [Vernnobile Webfont Testing (drag+drop)](http://vernnobile.github.io/webfont-testing/)

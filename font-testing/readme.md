@@ -4,6 +4,8 @@
 ## Web Applications
 
 - [Vernnobile Webfont Testing (drag+drop)](http://vernnobile.github.io/webfont-testing/)
+- [Impallari Webfont Testing (drag+drop)](http://www.impallari.com/testing/)
+- [testmyfont.com](https://www.testmyfont.com) ([source](https://github.com/typefacedesign/document-driven-typedesign))
 
 
 ## Open Source Projects
